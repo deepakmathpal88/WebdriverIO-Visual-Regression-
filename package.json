@@ -1,12 +1,10 @@
 {
-  "name": "webdriverio-example",
+  "name": "webdriverio visual regrssion example",
   "version": "1.0.0",
   "description": "",
   "scripts": {
     "test": "wdio wdio.conf.js"
   },
-  "author": "Jan-André Zinser",
-  "license": "MIT",
   "dependencies": {
     "babel-runtime": "^6.9.0",
     "phantomjs": "^1.9.8",
