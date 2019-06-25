@@ -10,7 +10,7 @@
   "dependencies": {
     "babel-runtime": "^6.9.0",
     "phantomjs": "^1.9.8",
-    "wdio-mocha-framework": "^0.5.9",
+    "wdio-mocha-framework": "^0.6.4",
     "wdio-screenshot": "^0.6.0",
     "wdio-selenium-standalone-service": "^0.0.12",
     "wdio-visual-regression-service": "^0.9.0",
