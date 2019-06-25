@@ -1,6 +1,6 @@
 # WebdriverIO example
 
-I modefied the https://github.com/zinserjan/webdriverio-example project to test a simple visual regression scnario.You can get moe detail from the specified URL for the operations used in th project.
+I modefied the webdriverio-example project to test a simple visual regression scnario.You can get moe detail from the specified URL for the operations used in th project.
 
 ## Getting started
 
